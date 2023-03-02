@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/album/static/css/main.e6cc98b1.css",
+    "main.js": "/album/static/js/main.6ad18fa0.js",
+    "static/js/787.9e184952.chunk.js": "/album/static/js/787.9e184952.chunk.js",
+    "static/media/rozes.png": "/album/static/media/rozes.0c1dea1ce3de78750551.png",
+    "index.html": "/album/index.html",
+    "main.e6cc98b1.css.map": "/album/static/css/main.e6cc98b1.css.map",
+    "main.6ad18fa0.js.map": "/album/static/js/main.6ad18fa0.js.map",
+    "787.9e184952.chunk.js.map": "/album/static/js/787.9e184952.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6cc98b1.css",
+    "static/js/main.6ad18fa0.js"
+  ]
+}
